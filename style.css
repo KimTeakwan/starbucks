@@ -1,6 +1,5 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
-
 /* reset */
 * { margin:0;  padding:0;}
 ul, ol {list-style:none;}
@@ -85,7 +84,7 @@ nav a { color: var(--white); margin-left: 20px; font-weight: bold; }
 .bg2 { background-image:url(images/pic12.png); } 
 .bg3 { background-image:url(images/pic9.jpg); }
 .bg4 { background-image:url(images/pic4.jpeg); }
-.bg5 { background-image:url(images/pic8.png); }
+.bg5 { background-image:url(images/pic13.jpg); }
 .bg6 { background-image:url(images/pic1.png); }
 .bg7 { background-image:url(images/pic10.jpeg); }
 /* 이미지박스 */
