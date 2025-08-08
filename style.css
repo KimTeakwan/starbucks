@@ -29,7 +29,7 @@ section {
     width:85%; position:relative; margin-left:15%; transition: width 0.5s, margin-left 0.5s;
 }
 article {
-    float:left; height:260px; transition: width 0.5s, height 0.5s;
+    float:left; height:260px; transition: width 0.5s, height 0.5s; overflow: hidden;
 }
 article:nth-child(1) { width:60%; height:520px; }
 article:nth-child(2) { width:40%; }
